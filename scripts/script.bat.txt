@@ -1,0 +1,6 @@
+# Índice de Documentación
+- [Temario del Curso](#temario-del-curso-ifcd0310)
+- [Ejercicios Prácticos](#ejercicios-prácticos)
+- [Recursos Adicionales](#recursos-adicionales)
+- [Glosario de Términos](#glosario-de-términos-técnicos)
+
